@@ -2,6 +2,10 @@
 
 Suodattaa kombinaatiosääntöjen avulla "laittomat" rivit Wilman tuntikirjauksista.
 
+## Kääntäminen
+
+    make compile
+
 ## Postgresql tietokanta
 
 Dockerfile

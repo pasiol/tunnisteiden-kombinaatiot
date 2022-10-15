@@ -21,7 +21,7 @@ Dockerfile
     docker build -t kombinaatiot .
     docker run -d --rm  -p 5432:5432 --name kombinaatiot_kontti -v ~/data:/var/lib/postgresql/data kombinaatiot
 
-## Alustus
+## Salaisuudet
 
 Lue salaisuudet ympäristömuuttujina.
 

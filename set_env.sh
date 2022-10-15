@@ -1,0 +1,14 @@
+#!/bin/bash
+export PG_HOST=nnnnnnnnnnnnnn
+export PG_PORT=nnnnnnnnnnnnnn
+export PG_USER=nnnnnnnnnnnnnn
+export PG_PWD=nnnnnnnnnnnnnn
+export PG_DB=nnnnnnnnnnnnnn
+export PRIMUS_HOST=nnnnnnnnnnnnnn
+export PRIMUS_PORT=nnnnnnnnnnnnnn
+export PRIMUS_USER=nnnnnnnnnnnnnn
+export PRIMUS_PWD=nnnnnnnnnnnnnn
+export MONGO_DB=nnnnnnnnnnnnnn
+export MONGO_USER=nnnnnnnnnnnnnn
+export MONGO_PASSWORD=nnnnnnnnnnnnnn
+export MONGO_CLUSTER=nnnnnnnnnnnnnn

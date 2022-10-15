@@ -1,0 +1,8 @@
+LICENSE
+data
+bin
+primusquery*
+*libgo*
+*debug*
+postgres
+.vscode
